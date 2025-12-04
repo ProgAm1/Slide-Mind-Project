@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/fontbox-2.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/json-20230618.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/kotlin-stdlib-1.9.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/pdfbox-2.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/okhttp-4.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/okio-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-io-2.13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

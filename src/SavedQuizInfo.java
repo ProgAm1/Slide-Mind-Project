@@ -1,1 +1,3 @@
-// TODO: paste full code for SavedQuizInfo.java
+import java.io.File;
+
+public record SavedQuizInfo(String name, long timestamp, File file) {}
