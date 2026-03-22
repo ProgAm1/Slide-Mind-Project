@@ -84,6 +84,7 @@ SlideMind
 
 ## Authors
 
+Mohamed Khaled Elkasabgy
 Ammar Yaser Babaset  
 Ahmed Omer Bahaj
 Software Engineering Students – University of Jeddah
